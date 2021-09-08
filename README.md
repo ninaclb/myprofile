@@ -7,3 +7,8 @@
 * Banco de dados com MySQL
 * HTML 5 e CSS 3 
 * JavaScript for professional
+
+# Bandas de Metal 
+* Foo Finghters
+* ManoWar
+* PowerWolf
