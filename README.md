@@ -11,8 +11,9 @@
 # Livros
 
 # Lista de Bandas de rock
-*Pink Floyd
-*Beatles
+* Pink Floyd
+* Beatles
+
 # Livros
 * Php do jeito certo
 * Código limpo
