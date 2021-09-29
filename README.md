@@ -23,3 +23,8 @@
 * Foo Finghters
 * ManoWar
 * PowerWolf
+
+# Filmes da Barbie
+* Fairytopia
+* Castelo de Diamaante
+* Moda E Magia
